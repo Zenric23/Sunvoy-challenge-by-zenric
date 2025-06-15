@@ -14,4 +14,4 @@ Watch the walkthrough of the project here: [Loom Video](https://www.loom.com/sha
    npm run start
 
 ## Note
-For `fetchCurrentAuthenticatedUser` function to work, make sure you passed a valid timestap, access_token and checkcode to the request.
+For `fetchCurrentAuthenticatedUser` function to work make sure you passed a valid `timestamp`, `access_token` and `checkcode` to the request. Refer to the loom video on how to get the valid credentials.
