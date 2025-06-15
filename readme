@@ -1,0 +1,17 @@
+# Sunvoy Challenge
+
+
+## Loom Video
+Watch the walkthrough of the project here: [Loom Video](https://www.loom.com/share/c138cff020a7430ca89a46feb00b8804)
+
+## Setup Instructions
+1. Clone the repository to your local machine.
+2. Install dependencies by running:
+   ```bash
+   npm install
+3. Run script by running:
+   ```bash
+   npm run start
+
+## Note
+For `fetchCurrentAuthenticatedUser` function to work, make sure you passed a valid timestap, access_token and checkcode to the request.
